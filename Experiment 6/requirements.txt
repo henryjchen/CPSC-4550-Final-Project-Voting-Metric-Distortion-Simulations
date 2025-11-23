@@ -1,0 +1,9 @@
+gurobipy==11.0.3
+matplotlib==3.9.2
+networkx==3.2.1
+numpy==2.0.2
+preflibtools==2.0.22
+prefsampling==0.1.22
+PuLP==2.9.0
+pandas>=2.0.0
+tqdm>=4.65.0
